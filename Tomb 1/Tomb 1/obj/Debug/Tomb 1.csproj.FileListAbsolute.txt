@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Tomb 1\Tomb 1\bin\Debug\Tomb 1.exe.config
+C:\Users\Soma\Documents\C#2\Tomb 1\Tomb 1\bin\Debug\Tomb 1.exe
+C:\Users\Soma\Documents\C#2\Tomb 1\Tomb 1\bin\Debug\Tomb 1.pdb
+C:\Users\Soma\Documents\C#2\Tomb 1\Tomb 1\obj\Debug\Tomb 1.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Tomb 1\Tomb 1\obj\Debug\Tomb 1.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Tomb 1\Tomb 1\obj\Debug\Tomb 1.exe
+C:\Users\Soma\Documents\C#2\Tomb 1\Tomb 1\obj\Debug\Tomb 1.pdb
